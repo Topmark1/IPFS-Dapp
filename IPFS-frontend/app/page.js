@@ -177,7 +177,7 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className='image' src="./Learnweb3punks.png" />
+          <img className='image' src="./learnweb3punks.png" />
         </div>
       </div>
 
