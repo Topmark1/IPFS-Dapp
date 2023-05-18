@@ -98,4 +98,4 @@ contract LW3Punks is ERC721Enumerable, Ownable {
 }
 //image CID= QmQBHarz2WFczTjz5GnhjHrbUPDnB48W5BM2v2h6HbE1rZ
 //metadata CID = Qmbygo38DWF1V8GttM1zy89KzyZTPU2FLUzQtiDvB7q6i5
-//LW3Punks Contract Address: 0x7CD403877816e22a9c5eAB8b3766d64a278868EA
+//LW3Punks Contract Address: 0xa222a6e18ac6CA63C9C791b0acd81DCE8D9295a4
